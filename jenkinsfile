@@ -1,4 +1,4 @@
 @Library("com.i27adacemy.slbapril@main") _
-firstpipeline(
+firstPipeline(
 appName: 'shipping'
 )
